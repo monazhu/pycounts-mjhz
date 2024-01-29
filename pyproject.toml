@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "pycounts_mjhz"
-version = "0.1.0"
+version = "0.1.1"
 description = "Calculate word counts in a text file! A toy python package made for DSCI 524"
 authors = ["Mona Zhu"]
 license = "MIT"
